@@ -5,8 +5,8 @@ Your week, with receipts and a wink. This plugin turns **opted-in Computer Histo
 ## Before you start
 
 - Requires the separately installed **Computer History** plugin and access to its local history on a supported Mac. Week in Rewind does not record activity or broaden observation settings.
-- Ask for a recap with `Use $week-in-rewind to recap my last seven days.` For an on-demand recap, it asks three quick, silly questions about genre, roast heat, and what to spotlight. Answer in one line or say “surprise me.” A shorter or more serious tone is fine: `... roast level 0` or `... roast level 3`.
-- For optional scheduling, ask `Use $setup-weekly-rewind to send this to my own Slack DM every Friday at 4 PM Pacific.` A connected Slack account is required for Slack delivery. The setup skill must verify the destination is your self-DM and avoid duplicate schedules.
+- Ask for a recap with `Use /week-in-rewind:week-in-rewind to recap my last seven days.` For an on-demand recap, it asks three quick, silly questions about genre, roast heat, and what to spotlight. Answer in one line or say “surprise me.” A shorter or more serious tone is fine: `... roast level 0` or `... roast level 3`.
+- For optional scheduling, ask `Use /week-in-rewind:setup-weekly-rewind to send this to my own Slack DM every Friday at 4 PM Pacific.` A connected Slack account is required for Slack delivery. The setup skill must verify the destination is your self-DM and avoid duplicate schedules.
 - Installation alone does not create an automation or send a message.
 
 ## What you get

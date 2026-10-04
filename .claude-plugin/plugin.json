@@ -11,5 +11,10 @@
     "weekly-recap",
     "reflection"
   ],
-  "icon": "./icon.png"
+  "icon": "./icon.png",
+  "license": "MIT",
+  "homepage": "https://github.com/RachaelQuisel/week-in-rewind",
+  "repository": "https://github.com/RachaelQuisel/week-in-rewind",
+  "documentationUrl": "https://github.com/RachaelQuisel/week-in-rewind#readme",
+  "supportUrl": "https://github.com/RachaelQuisel/week-in-rewind/issues"
 }
