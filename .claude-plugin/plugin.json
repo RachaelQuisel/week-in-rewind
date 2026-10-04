@@ -2,7 +2,14 @@
   "name": "week-in-rewind",
   "displayName": "Week in Rewind",
   "description": "Turn opted-in Computer History into a warm, evidence-backed weekly recap with a gentle roast.",
-  "version": "2.0.0",
-  "author": { "name": "Rachael Quisel" },
-  "keywords": ["computer-history", "weekly-recap", "reflection"]
+  "version": "3.0.0",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "keywords": [
+    "computer-history",
+    "weekly-recap",
+    "reflection"
+  ],
+  "icon": "./icon.png"
 }
