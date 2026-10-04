@@ -1,0 +1,16 @@
+{
+  "name": "week-in-rewind",
+  "description": "Turn opted-in Computer History into a warm, evidence-backed weekly recap with a gentle roast.",
+  "owner": {
+    "name": "Rachael Quisel"
+  },
+  "plugins": [
+    {
+      "name": "week-in-rewind",
+      "source": "./",
+      "description": "Turn opted-in Computer History into a warm, evidence-backed weekly recap with a gentle roast.",
+      "displayName": "Week in Rewind",
+      "category": "Productivity"
+    }
+  ]
+}
