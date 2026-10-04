@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "week-in-rewind",
+  "version": "0.2.0",
+  "description": "Turn opted-in Computer History into a warm, evidence-backed weekly recap with a gentle roast.",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "keywords": ["computer-history", "weekly-recap", "reflection"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Week in Rewind",
+        "shortDescription": "Your week, with receipts and a wink",
+        "longDescription": "A playful, private-by-default conversation about your opted-in Computer History. Pick a genre and roast level, then get work rhythms, detours, real shortcuts, writing style, and a kind roast. Optional weekly delivery to your own Slack DM.",
+        "developerName": "Rachael Quisel",
+        "category": "Productivity",
+        "capabilities": ["Read"],
+        "defaultPrompt": [
+          "Use $week-in-rewind to recap my last seven days.",
+          "Use $setup-weekly-rewind to set up a weekly recap in my own Slack DM."
+        ],
+        "brandColor": "#7B61B5"
+      }
+    }
+  }
+}
