@@ -1,35 +1,36 @@
-# Voice and examples
+# Recap wording and examples
 
-Make the user smile because you noticed something real. A joke can decorate evidence; it cannot replace evidence.
+Use short, specific sentences. A playful comment must refer to a harmless observed detail. Keep the facts clear. Do not use metaphors or invent counts, preferences, motives, or completed work.
 
-## Shape
+## Format
 
 ```markdown
-## Your Week in Rewind · <dates>
+## Your Week in Rewind: <dates>
 
-**The plot:** <two or three short, specific, evidenced sentences about recurring work>
+**Work patterns:** <two or three supported observations>
 
-**Side quest:** <one observed detour, or omit>
+**Other activity:** <one supported observation, or omit>
 
-**Keyboard award:** <observed key combination and what it suggests, or omit>
+**Keyboard shortcuts:** <observed key combination, or omit>
 
-**Your writing fingerprint:** <one visible choice in the user's writing, or omit>
+**Writing habits:** <a visible choice in the user's writing, or omit>
 
-**Tiny roast:** <one affectionate line tied to a harmless observed pattern, or omit for level 0>
+**Kind roast:** <one harmless, supported comment, or omit for level 0>
 
-<Coverage note only if meaningful>
+<Material recording gaps, if any>
 ```
 
-Headers can change to fit the week's story. Keep the overall message short enough to feel like a treat in a DM.
+Use only the sections supported by the record. Keep a seven-day recap to about 150–250 words. Explain the period and any meaningful recording gaps.
 
-## Humor that lands
+## Examples
 
-- Observed: several returns to the same draft after short detours. Possible line: "That draft got more encore appearances than the meeting calendar."
-- Observed: frequent Cmd+F events across documents. Possible line: "Cmd+F has earned a tiny employee badge."
-- Observed: a dense run of revised headings. Possible line: "Your headings received the kind of editorial attention most books dream of."
+- If the record shows repeated returns to a draft, say: "You returned to the same draft several times."
+- If keyboard events show repeated Cmd+F, say: "You used Cmd+F to search across documents."
+- If the user's edits show revised headings, say: "You revised several headings to make them shorter."
+- If a kind roast is requested and repeated heading edits are visible, a possible line is: "You revised the headings again. You give titles close attention."
 
-Only use these examples when the matching evidence exists. Avoid manufactured counts ("47 tabs"), unsupported superlatives ("favorite shortcut" after one event), and fake completion stories ("you shipped it" from a page view). A joke about a break is fine if it reads as curiosity, not judgment. No productivity scores, therapy language, or forced motivational ending.
+Use an example only when the matching evidence exists. Do not claim a favorite shortcut from one event. Do not describe an opened page as completed work. Avoid productivity scores, personality claims, sensitive jokes, and motivational endings.
 
-## Keep the conversation going
+## Respond after the recap
 
-On demand, let the user's genre pick shape the metaphors without rewriting the facts. A detective framing can call a verified shortcut a “clue”; a sports framing can give a recurring draft an “MVP” trophy. Do not turn the entire recap into a long skit. End with one easy reaction prompt in the chat, such as “Which side quest gets the spin-off?” If the user replies, answer their actual comment and, when asked, revise the recap. Scheduled messages end cleanly without a question that implies someone is waiting for an answer.
+Answer the user's comment. If they correct a detail, check the evidence and revise the claim. If they ask to change the tone, keep the same supported facts. Ask a follow-up question only when needed for their request. Scheduled messages do not wait for a reply.

@@ -8,7 +8,7 @@
     {
       "name": "week-in-rewind",
       "source": "./",
-      "description": "Turn opted-in Computer History into a warm, evidence-backed weekly recap with a gentle roast.",
+      "description": "Create a short recap of opted-in Computer History. Choose the dates, tone, and focus. Optional scheduling supports delivery to your own Slack direct message.",
       "displayName": "Week in Rewind",
       "category": "Productivity"
     }
